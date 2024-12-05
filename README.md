@@ -43,6 +43,7 @@
 | context | [🔊](https://dict.youdao.com/dictvoice?audio=context&type=1)  /ˈkɒntekst/ | [🔊](https://dict.youdao.com/dictvoice?audio=context&type=2)  / ˈkɑːntekst/ |  ❌ /kənˈtekst/ |
 | Coq | [🔊](https://upload.wikimedia.org/wikipedia/commons/4/47/Fr-coq.ogg) IPA French ['kɔkʲ] 读若拼音“goq” | | ❌ IPA English ['kʰɒk] |
 | daemon | [🔊](https://dict.youdao.com/dictvoice?audio=Daemon&type=1)  /'diːmən/ | [🔊](https://dict.youdao.com/dictvoice?audio=Daemon&type=2)  /ˈdiːmən/ |  ❌ /dæmən/ |
+| debian | [🔊](https://dict.youdao.com/dictvoice?audio=debian&type=1)  /'debiən/ | [🔊](https://dict.youdao.com/dictvoice?audio=debian&type=2)  /'debiən/ |  ❌ /dəbiən/ |
 | debt | [🔊](https://dict.youdao.com/dictvoice?audio=debt&type=1)  /det/ | [🔊](https://dict.youdao.com/dictvoice?audio=debt&type=2)  /det/ |  ❌ /de'bit/ |
 | deny | [🔊](https://dict.youdao.com/dictvoice?audio=deny&type=1)  /dɪ'naɪ/ | [🔊](https://dict.youdao.com/dictvoice?audio=deny&type=2)  /dɪˈnaɪ/ |  ❌ /'dæni/ |
 | deprecate | [🔊](https://dict.youdao.com/dictvoice?audio=deprecate&type=1) /ˈdeprəkeɪt/ | [🔊](https://dict.youdao.com/dictvoice?audio=deprecate&type=2) /ˈdeprəkeɪt/ |  |
